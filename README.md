@@ -31,6 +31,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0856-score-of-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -321,6 +322,7 @@
 ## Stack
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -417,5 +419,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
