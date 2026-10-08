@@ -420,5 +420,6 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
