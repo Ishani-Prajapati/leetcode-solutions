@@ -58,6 +58,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -218,12 +220,14 @@
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -338,6 +342,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
 | ------- |
@@ -400,6 +405,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting Sort
 |  |
 | ------- |
@@ -430,6 +436,7 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -444,4 +451,8 @@
 | [0856-score-of-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
