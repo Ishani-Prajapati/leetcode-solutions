@@ -45,6 +45,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SecuredByIshani/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
